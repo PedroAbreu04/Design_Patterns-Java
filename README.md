@@ -1,5 +1,5 @@
 # Design_Patterns-Java
-> Status: Em Andamento ⚠️
+> Status: Finalizado ✔️
 
 <p>Projetos desenvolvidos com base em Design Patterns</p>
 
